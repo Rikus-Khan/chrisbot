@@ -1,2 +1,5 @@
 node_modules/
 .env
+
+# Claude Code per-user permissions (can hold approved commands verbatim)
+.claude/settings.local.json
